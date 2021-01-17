@@ -1,6 +1,6 @@
 /* Main program
- * dependencies : SDL2
- * compilation : gcc main.c opcodes.c `sdl2-config --cflags --libs` -o main
+ * dependencies: SDL2
+ * compilation: gcc main.c opcodes.c `sdl2-config --cflags --libs` -o main
  */
 
 #include "structs.h"
